@@ -1,0 +1,4 @@
+Radek is a certified Toptal blockchain engineer particularly interested in
+ Ethereum and smart contracts. In the fiat world, he is experienced in big data and machine learning projects.
+  He is a triple winner in two different international IBM Apache Spark competitions, co-creator of PlayStation 4's back end,
+   a successful hackathon competitor, and speaker at conferences in Australia, Poland, and Serbia.
