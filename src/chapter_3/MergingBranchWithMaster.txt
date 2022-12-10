@@ -13,3 +13,5 @@ Merging & merge conflicts
  -m: bu seçeneği seçersek commit mesajını manuel olarak kendimiz yazabiliriz
 
  * Branch i master ile merge ettikten sonra branch i silebiliriz
+
+ ** Mor bağlama işaretini görmek için sanırım her zaman --no ff seçeneğinin seçili olması gerekiyor
