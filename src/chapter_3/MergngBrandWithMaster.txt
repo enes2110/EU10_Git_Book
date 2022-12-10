@@ -1,0 +1,15 @@
+Merging & merge conflicts
+
+Önce Master üzerindeyken sağ tıklayıp new branch oluşturuyoruz sonra yeni class,text vs yapacaklarımızı yapıyoruz
+
+ sonra master ı checkout yapıp en üste alıyoruz sonra Git menüden merge ü seçip modify options dan ilk ini tikliyoruz
+
+ (no ff - fast forward) olanı sonra merge diyoruz ve bitiyor
+
+ no ff: otomatik bir commit oluşturuyor ve commit olarak hangi branch in merge edildiğini yazıyor  (Merge brach 'feature_c' gibi)
+
+ diğer seçenkeleri seçersek commit yorumu olmuyor
+
+ -m: bu seçeneği seçersek commit mesajını manuel olarak kendimiz yazabiliriz
+
+ * Branch i master ile merge ettikten sonra branch i silebiliriz
